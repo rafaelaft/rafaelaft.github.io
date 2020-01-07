@@ -1,0 +1,45 @@
+.top-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+.top-center-p{
+
+}
+
+.hero-image._2{
+	background-image: url(gata.jpg) !important;
+}
+
+.profile-image{
+	background-image: url(perfil.jpg) !important;
+}
+
+.bg-top{
+	background-color: #FFB6C1;
+}
+
+.bg-botttom{
+	background-color: #FFC0CB;
+}
+
+.hero-text-box{
+	background-color: #FFB6C1;
+}
+
+.text-box{
+	background-color: #FFB6C1;
+}
+
+.image{
+	border: 17px solid #FFB6C1;
+}
+
+.footer{
+	background-color: #FFC0CB;
+}
+
+.footer-notice-text{
+	font-size: 20px;
+}
